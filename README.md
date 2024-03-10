@@ -2,7 +2,7 @@
 
   ## Senior Software Engineer @ [FounderandLightning](https://github.com/founderandlightning)
 
-## 🔨 Languages & Frameworks & Skills ⭐️:
+## 🔨 Languages, Frameworks & Skills ⭐️:
 
 ### Web Design & Development 💻:
 #### 🙈 - Frontend:
