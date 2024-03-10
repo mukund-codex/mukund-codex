@@ -1,6 +1,6 @@
-  # Mukunda Vishwakarma 😓
+  # Mukunda Vishwakarma 
 
-<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=mukund-codex&show_icons=true&locale=en&theme=tokyonight" alt="Mukunda" /></p>
+  ### Senior Software Engineer @ FounderandLightning
 
 ## 🔨 Languages & Frameworks & Skills ⭐️:
 
