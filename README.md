@@ -1,6 +1,6 @@
   # Mukunda Vishwakarma 
 
-  ## Senior Software Engineer @ ![FounderandLightning](https://github.com/founderandlightning)
+  ## Senior Software Engineer @ [FounderandLightning](https://github.com/founderandlightning)
 
 ## 🔨 Languages & Frameworks & Skills ⭐️:
 
